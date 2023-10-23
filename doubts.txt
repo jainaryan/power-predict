@@ -1,6 +1,4 @@
-1. Can i interpolate temp? I am missing out on 4692-3796 = 896 rows
-for loop of CDH and find highest correlation
-13th dec was written as 13th july corrected that
+1. For some reason few values of e1,e2 and constraints on bills dont work
 -> there is a problem with dec 1-15 data and may 1-15, they both have july 13th data
 -> jul 16-30 not being read i guess data is in wrong form?
 
