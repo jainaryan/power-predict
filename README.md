@@ -1,2 +1,3 @@
 # power-predict
-Predicts missing power consumption considering weather
+Predicts missing power consumption considering weather and time.
+
