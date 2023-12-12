@@ -1,4 +1,0 @@
-1. For some reason few values of e1,e2 and constraints on bills dont work
--> there is a problem with dec 1-15 data and may 1-15, they both have july 13th data
--> jul 16-30 not being read i guess data is in wrong form?
-
